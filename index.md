@@ -1,20 +1,14 @@
-A First Level Header
+**Driex**  
 ====================
 
-A Second Level Header
+Security fundamentals
 ---------------------
 
-Now is the time for all good men to come to
-the aid of their country. This is just a
-regular paragraph.
+_Security isn't something new, humans been using this since the age of man kind, take for example the middle ages._
 
-The quick brown fox jumped over the lazy
-dog's back.
+Kings had huge castles, they had to protect them with multiple layers of defense mechanisms like a canal, drawbridge, fortified outer wall, second minor wall, and a **big keep** in the center.
+Some even went the extra mile and upgrade the canals with crocodiles and walls with hot burning tar.
 
-### Header 3
+Loads of companys think it's fine to just buy one big Firewall and they are done with securing their IT infrastructure.
 
-> This is a blockquote.
-> 
-> This is the second paragraph in the blockquote.
->
-> ## This is an H2 in a blockquote
+Mission complete: bought firewall:
