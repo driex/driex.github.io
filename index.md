@@ -1,5 +1,6 @@
 **Build, Destory, Rebuild.**
 
+<<<<<<< HEAD
 
 # Security fundamentals # 
 
@@ -12,6 +13,19 @@ _When you rely on just one line of defense, and that line gets compromised, you 
 
 Apply the above on a corporate network, it's not just done by buying one strong Firewall appliance.
 
+=======
+# Security fundamentals # 
+
+
+## Build layers of defenses. ##
+
+_When you rely on just one line of defense, and that line gets compromised, you are left unprotected._
+
+**Castle metaphore**, it used to rely on a canal, fortified outer walls, a second interior wall and a keep within.
+
+Apply the above on a corporate network, it's not just done by buying one strong Firewall appliance.
+
+>>>>>>> 9255babd79da71fb19cedc6cd1ab917697e4a9f2
 Should be **security by layers** or **defense by depth**.
 
 ## Permissions ##
@@ -32,7 +46,11 @@ Like the legendary Welcome01
 A list of total number of password combinations per pass lenghts:
 *  4 characters: 456,976 combinations
 
+<<<<<<< HEAD
 * 5 characters: 11.8 million combinations
+=======
+*  5 characters: 11.8 million combinations
+>>>>>>> 9255babd79da71fb19cedc6cd1ab917697e4a9f2
 
 * 6 characters: 308.9 million combinations
 
